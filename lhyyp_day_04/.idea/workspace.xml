@@ -6,12 +6,46 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd13f23a-39d3-4388-aeff-92c44152a1ec" name="Default Changelist" comment="" />
+    <list default="true" id="dd13f23a-39d3-4388-aeff-92c44152a1ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/update.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lhyyp_day_04.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lhyyp_day_04.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lhyyp_day_04/WEB-INF/classes/day_01/web/dao/MemberDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/lhyyp_day_04/WEB-INF/classes/day_01/web/dao/MemberDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lhyyp_day_04/WEB-INF/classes/day_01/web/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/lhyyp_day_04/WEB-INF/classes/day_01/web/dao/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lhyyp_day_04/WEB-INF/classes/day_01/web/servletWeb/web/ServletDetele.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/lhyyp_day_04/WEB-INF/classes/day_01/web/servletWeb/web/ServletDetele.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lhyyp_day_04/WEB-INF/classes/day_01/web/servletWeb/web/ServletUpload.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/lhyyp_day_04/WEB-INF/classes/day_01/web/servletWeb/web/ServletUpload.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lhyyp_day_04/WEB-INF/classes/day_01/web/servletWeb/web/ServletView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/lhyyp_day_04/WEB-INF/classes/day_01/web/servletWeb/web/ServletView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lhyyp_day_04/WEB-INF/classes/day_01/web/servletWeb/web/Servletupdate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/lhyyp_day_04/WEB-INF/classes/day_01/web/servletWeb/web/Servletupdate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lhyyp_day_04/add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/lhyyp_day_04/add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lhyyp_day_04/download.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/lhyyp_day_04/download.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lhyyp_day_04/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/lhyyp_day_04/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lhyyp_day_04/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/lhyyp_day_04/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lhyyp_day_04/day_01/web/dao/MemberDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lhyyp_day_04/day_01/web/dao/MemberDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lhyyp_day_04/day_01/web/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lhyyp_day_04/day_01/web/dao/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lhyyp_day_04/day_01/web/servletWeb/web/ServletDetele.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lhyyp_day_04/day_01/web/servletWeb/web/ServletDetele.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lhyyp_day_04/day_01/web/servletWeb/web/ServletUpload.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lhyyp_day_04/day_01/web/servletWeb/web/ServletUpload.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lhyyp_day_04/day_01/web/servletWeb/web/ServletView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lhyyp_day_04/day_01/web/servletWeb/web/ServletView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lhyyp_day_04/day_01/web/servletWeb/web/Servletupdate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lhyyp_day_04/day_01/web/servletWeb/web/Servletupdate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_01/web/dao/MemberDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_01/web/dao/MemberDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_01/web/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_01/web/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_01/web/servletWeb/web/ServletDetele.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_01/web/servletWeb/web/ServletDetele.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_01/web/servletWeb/web/ServletUpload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_01/web/servletWeb/web/ServletUpload.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_01/web/servletWeb/web/ServletView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_01/web/servletWeb/web/ServletView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_01/web/servletWeb/web/Servletupdate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/download.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/download.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/login.jsp" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="lhyyp_day_04" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -22,6 +56,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -30,13 +67,18 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1TKO8zKlWkG7OMRhGLPonCOyeCt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -44,19 +86,21 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\javascript\lhyyp_day_04\web" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javascript\javaDemo\lhyyp_day_04\web\WEB-INF\lib" />
       <recent name="D:\javascript\lhyyp_day_04\web\WEB-INF\lib" />
       <recent name="D:\javascript\lhyyp_day_04\src" />
       <recent name="D:\javascript\lhyyp_day_04\web\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\javascript\lhyyp_day_04\web" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -71,7 +115,54 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.27">
+  <component name="RunManager" selected="JUnit.JedisTest.test2">
+    <configuration name="JedisTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lhyyp_day_04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_01.web.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day_01.web.test" />
+      <option name="MAIN_CLASS_NAME" value="day_01.web.test.JedisTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JedisTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lhyyp_day_04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_01.web.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day_01.web.test" />
+      <option name="MAIN_CLASS_NAME" value="day_01.web.test.JedisTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JedisTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lhyyp_day_04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_01.web.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day_01.web.test" />
+      <option name="MAIN_CLASS_NAME" value="day_01.web.test.JedisTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LoginTest.loginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lhyyp_day_04" />
       <extension name="coverage">
@@ -165,9 +256,15 @@
     <list>
       <item itemvalue="JUnit.LoginTest.loginTest" />
       <item itemvalue="Tomcat Server.Tomcat 9.0.27" />
+      <item itemvalue="JUnit.JedisTest.test1" />
+      <item itemvalue="JUnit.JedisTest" />
+      <item itemvalue="JUnit.JedisTest.test2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.JedisTest.test2" />
+        <item itemvalue="JUnit.JedisTest" />
+        <item itemvalue="JUnit.JedisTest.test1" />
         <item itemvalue="JUnit.LoginTest.loginTest" />
       </list>
     </recent_temporary>
@@ -187,10 +284,26 @@
       <workItem from="1573436599858" duration="20751000" />
       <workItem from="1573540621376" duration="3878000" />
       <workItem from="1573609359128" duration="8798000" />
+      <workItem from="1573718590090" duration="9059000" />
+      <workItem from="1573782514062" duration="3122000" />
+      <workItem from="1573785678148" duration="18306000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

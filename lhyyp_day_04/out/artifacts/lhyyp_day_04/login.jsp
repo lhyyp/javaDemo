@@ -20,6 +20,7 @@
         密码：<input type="text" name="password">
     </label>
     <br>
+    图形验证码：
     <input type="text" name ="verify">
     <img src="${pageContext.request.contextPath}/verify" alt="">
     <br>

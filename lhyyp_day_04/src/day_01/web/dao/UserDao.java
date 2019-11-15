@@ -26,4 +26,7 @@ public class UserDao {
 
 
     }
+
+    public void findMemberPage(String currentPage, String rows) {
+    }
 }

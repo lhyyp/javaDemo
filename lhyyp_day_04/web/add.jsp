@@ -11,9 +11,6 @@
     <title>Title</title>
 </head>
 <body>
-<%
-    System.out.println(111);
-%>
     <form action="${pageContext.request.contextPath}/add" method="post">
         <label for="">
             用户名：<input type="text" name="name">
@@ -40,7 +37,7 @@
             qq：<input type="text" name="qq">
         </label>
         <br>
-        <input type="submit" value="登录">
+        <input type="submit" value="add">
     </form>
     <div><%=request.getAttribute("err") == null ?"":request.getAttribute("err")%></div>
 </body>

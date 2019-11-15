@@ -14,7 +14,7 @@
 <%
     System.out.println("你好");
 %>
-<a href="/lhyyp_day_04/Upload?filename=ico.png">图片</a>
+<a href="${pageContext.request.contextPath}/upload?filename=ico.png">图片</a>
 </body>
 </html>
 
